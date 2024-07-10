@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank loans related local APIs"
+  contactDetails:
+    name: "Alvarez Fast - Developer"
+    email: "alvarezfast@bank.com"
+  onCallSupport:
+    - (221) 343-7777
+    - (111) 777-7773

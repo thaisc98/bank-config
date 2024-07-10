@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related QA APIs"
+  contactDetails:
+    name: "Nazar Lax - QA Lead"
+    email: "nazarlax@bank.com"
+  onCallSupport:
+    - (222) 101-1010
+    - (222) 202-2020

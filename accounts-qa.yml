@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs"
+  contactDetails:
+    name: "Juanita Goza - QA Lead"
+    email: "juanitagoza@bank.com"
+  onCallSupport:
+    - (666) 000-0123
+    - (666) 000-3210

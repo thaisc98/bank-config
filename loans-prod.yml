@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Bank loans related prod APIs"
+  contactDetails:
+    name: "Liam Datr - Product Owner"
+    email: "liamdatr@bank.com"
+  onCallSupport:
+    - (123) 888-8888
+    - (321) 999-9999

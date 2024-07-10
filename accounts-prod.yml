@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs"
+  contactDetails:
+    name: "Auron Playas - Product Owner"
+    email: "auronplayas@bank.com"
+  onCallSupport:
+    - (111) 233-4829
+    - (111) 332-9090

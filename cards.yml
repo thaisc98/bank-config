@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank cards related local APIs"
+  contactDetails:
+    name: "Kio Naji - Developer"
+    email: "kionajin@bank.com"
+  onCallSupport:
+    - (222) 123-0001
+    - (222) 321-0002
