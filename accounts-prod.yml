@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs"
+  message: "Welcome to Bank accounts related production APIs"
   contactDetails:
     name: "Auron Playas - Product Owner"
     email: "{cipher}3733707d87713755b011b0295194092598e6cd95169552e30af024c6e8927a6786bf09a64d756d815b99778b91dccfc3"
