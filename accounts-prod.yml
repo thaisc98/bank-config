@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "Auron Playas - Product Owner"
-    email: "auronplayas@bank.com"
+    email: "{cipher}3733707d87713755b011b0295194092598e6cd95169552e30af024c6e8927a6786bf09a64d756d815b99778b91dccfc3"
   onCallSupport:
     - (111) 233-4829
     - (111) 332-9090
