@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loans related prod APIs"
+  message: "Welcome to Bank loans related production APIs"
   contactDetails:
     name: "Liam Datr - Product Owner"
     email: "liamdatr@bank.com"
