@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related webhook 1 APIs"
+  message: "Welcome to Bank cards related webhook 2 APIs"
   contactDetails:
     name: "Nazar Lax - Product Owner"
     email: "nazarlax@bank.com"
