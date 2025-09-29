@@ -12,6 +12,6 @@ loans:
 
   spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/loansdb
+    url:  jdbc:mysql://localhost:3306/loansdb
     username: root
     password: "{cipher}5bced07e60566680f0efc51275403309a3a525ac7bcf194ab367c1460518423f"
